@@ -1,0 +1,8 @@
+{
+  "price": [
+    { "id": "btc", "USD": 9182.07, "EUR": 8158 }
+  ],
+  "balance": [
+    { "id": "btc", "satoshii" : 32344 }
+  ]
+}
